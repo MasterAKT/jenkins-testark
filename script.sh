@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo " this is very simple test for jenkins"
+echo " this is very simple test for jenkins -v1"
